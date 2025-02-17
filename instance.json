@@ -1,0 +1,12 @@
+{
+    "nitter": {
+      "clearnet": [
+        "https://nitter.net"
+      ],
+      "tor": [
+        "http://nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion"
+      ],
+      "i2p": [],
+      "loki": []
+    }
+  }
