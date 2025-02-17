@@ -1,7 +1,7 @@
 {
     "nitter": {
       "clearnet": [
-        "https://nitter.net"
+        "http://91.208.184.166:8080"
       ],
       "tor": [
         "http://nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion"
